@@ -1,0 +1,19 @@
+html {
+    background-color: #900C3F;
+    margin: auto;
+} 
+div {
+    background-color: #C70039;
+    margin: auto;
+}
+h1 {
+    color: #F94C10;
+    font-family: 'Pangolin', 'cursive';
+    font-size: 45px;
+    left: auto;
+}
+p {
+    color: #F94C10;
+    font-size: 32px;
+    margin: auto;
+}
