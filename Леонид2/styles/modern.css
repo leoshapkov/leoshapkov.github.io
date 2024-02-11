@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #99BC85;
+}
+
+.img-box {
+    column-count: 4;
+    column-gap: 0;
+}
+.image {
+    max-width: 100%;
+    padding: 5px;
+    display: flex;
+}
+
+.image + .image {
+    margin: 5px;
+}
